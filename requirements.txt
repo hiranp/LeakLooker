@@ -4,3 +4,4 @@ hurry.filesize==0.9
 requests==2.22.0
 shodan==1.13.0
 urllib3==1.25.2
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
